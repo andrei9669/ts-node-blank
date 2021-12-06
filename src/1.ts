@@ -1,1 +1,5 @@
-console.log("file 1")
+const input = ``;
+
+const data = input.split(',');
+
+export {};
